@@ -22,6 +22,6 @@
   },
   "include": [ "src/**/*.ts",
   "src/**/*.tsx",
-  "src/**/*.js", "src/lib/constants/navigation.jsx", "src/components/shared/Slidebar.tsx"],
+  "src/**/*.js", "src/lib/constants/navigation.jsx", "src/components/shared/Slidebar.tsx", "src/lib/utils/index.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
